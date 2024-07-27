@@ -12,3 +12,4 @@ pycparser == 2.20
 pydeck == 0.6.2
 Pygments == 2.9.0
 pyparsing == 2.4.7
+streamlit == 1.37.0
