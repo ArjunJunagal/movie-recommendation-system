@@ -10,7 +10,7 @@ prompt-toolkit == 3.0.19
 protobuf>=3.20,<6
 protobuf>=3.20,<6
 pycparser == 2.20
-pydeck == 0.6.2
+pydeck>=0.8.0b4,<1
 Pygments == 2.9.0
 pyparsing == 2.4.7
 streamlit == 1.37.0
